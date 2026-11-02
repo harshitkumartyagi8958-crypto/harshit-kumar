@@ -1,0 +1,6 @@
+{
+  "name": "DUFFLEHUB - Premium Duffle Bags",
+  "description": "Modern e-commerce destination for premium travel, gym, leather, sports, and weekend duffle bags with real-time shopping experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
